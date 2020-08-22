@@ -33,9 +33,9 @@
         "name": "KRSHNA",
         "location": "Gurgaon",
         "description": "abcd",
-        "profile_photo": "dwewewew",
+        "profile_photo": "img.png",
         "phone_number": "9393939393",
-        "email": "ewwed@wedwed.com"
+        "email": "test@test.com"
      }
     ```
 
@@ -45,9 +45,9 @@
     {
        "name": "KRSHNAAAAA",
        "location": "Gurgaon",
-       "profile_photo": "dwewewew",
+       "profile_photo": "img.png",
        "phone_number": "9393939393",
-       "email": "ewwed@wedwed.com",
+       "email": "test@test.com",
        "id": 6
     }
     ```
